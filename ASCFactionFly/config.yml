@@ -1,0 +1,9 @@
+radius_disable: true
+radius: 20
+allow_pearl_while_flying: false
+
+messages:
+    fly_enable: "&b&lAscendPvP &7> Your flight has been enabled!"
+    fly_disable: "&b&lAscendPvp &7> Your flight has been disabled!"
+    enemy_nearby: "&b&lAscendPvP &7> Enemy nearby, flight disabled!"
+    cancel_pearl: "&b&lAscendPvP &7> You cannot pearl while in flight!"
